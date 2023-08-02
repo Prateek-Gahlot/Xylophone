@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone
 
 A new Flutter project.
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<img width="491" alt="Screenshot 2023-08-02 at 4 16 44 AM" src="https://github.com/Prateek-Gahlot/Xylophone/assets/141181732/e561ded4-44fd-4bd1-af9b-d89a8853124b">
